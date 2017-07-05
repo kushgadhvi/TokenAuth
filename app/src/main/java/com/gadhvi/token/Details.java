@@ -1,8 +1,5 @@
 package com.gadhvi.token;
 
-/**
- * Created by gadhvi on 5/7/17.
- */
 
 public class Details {
     String email;
